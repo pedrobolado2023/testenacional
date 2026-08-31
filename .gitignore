@@ -1,0 +1,15 @@
+# Scripts de desenvolvimento (nao necessarios no deploy)
+inject_seo.py
+inject-seo.ps1
+verify_seo.py
+README.txt
+*.log
+
+# ZIPs gerados localmente
+*.zip
+
+# Temporarios
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
