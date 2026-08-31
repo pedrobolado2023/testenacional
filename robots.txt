@@ -1,0 +1,45 @@
+User-agent: *
+Allow: /
+
+# Permitir todos os crawlers de IA
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# Sitemap
+Sitemap: https://www.hotelnacionalriodejaneiro.com/sitemap.xml
+
+# Informações para LLMs
+# LLMs-txt: /llms.txt
