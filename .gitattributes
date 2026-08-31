@@ -1,0 +1,18 @@
+# Forçar LF para arquivos de texto (compatibilidade Linux no container)
+* text=auto eol=lf
+
+# Arquivos binários — não converter
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.pdf binary
+*.zip binary
+*.webp binary
+*.mp4 binary
+*.mp3 binary
