@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Página Principal -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Acomodações -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/suite-nacional/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/suite-sereia/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/suite-junior/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/luxo-mar/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/luxo-montanha/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/luxo-casal/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/luxo-twin/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/luxo-com-banheira/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/acomodacoes/luxo-acessibilidade/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Gastronomia -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/gastronomia/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/gastronomia/restaurante-a-sereia/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/gastronomia/restaurante-masi/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/gastronomia/lounge-bar-carybe/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Bem-Estar -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/bem-estar/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/bem-estar/nacional-spa/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/bem-estar/fitness-center/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Eventos e Corporativo -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/eventos-corporativos/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/espacos-corporativos/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/corporativo/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Experiências -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/experiencias/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Ofertas Especiais -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/ofertas-especiais/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Seja Prime / Fidelidade -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/seja-prime/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Home (subpáginas) -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/home/historia/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/home/localizacao/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/home/sao-conrado/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Tour Virtual -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/tour-360/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/tour-360-luxo-mar/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Reveillon -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/reveillon-2026/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/reveillon-2027-provisorio/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Campanha Livelo -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/campanha-livelo/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Contato e Institucional -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/contato/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/trabalhe-conosco/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/politica-de-privacidade/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/termos-e-condicoes/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/mapa-do-site/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Versões em outros idiomas -->
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/en/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.hotelnacionalriodejaneiro.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hotelnacionalriodejaneiro.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.hotelnacionalriodejaneiro.com/es/"/>
+  </url>
+  <url>
+    <loc>https://www.hotelnacionalriodejaneiro.com/es/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
