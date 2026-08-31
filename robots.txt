@@ -39,7 +39,7 @@ User-agent: WhatsApp
 Allow: /
 
 # Sitemap
-Sitemap: https://agentesia-testenacional.4nvzqw.easypanel.host/sitemap.xml
+Sitemap: https://hotelnacionalriodejaneiro.q-aura.com.br/sitemap.xml
 
 # Informações para LLMs
 # LLMs-txt: /llms.txt
